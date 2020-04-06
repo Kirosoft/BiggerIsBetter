@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 31252539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3da8ca702732bd1b426ed087bf9897b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c22d8ee9346e2f68a345365636ae61b9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 674a40251fe8ad841b18517ac5209957, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb7623a8f0b49cf4dbaa40aea4d4be64, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab
+- Assets/InfinityPBR/_InfinityPBR - Slime/_Prefabs/SFB_Slime.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+Dependencies:
+- C:/Users/mark/unity/BiggerIsBetter/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/mark/unity/BiggerIsBetter/OVRAssetBundles/OVRMasterBundle/asset_mat0

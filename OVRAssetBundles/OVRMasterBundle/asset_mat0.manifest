@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1436266328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 086d10f14d0492bb9c9642c2457ce771
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/InfinityPBR/_InfinityPBR - Slime/Models/Materials/Slime_diff.mat
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/Slime
+  Metal 3/Slime Metal 3.mat
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Blue.mat
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime.mat
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/Slime
+  Green/Slime Green Transparent.mat
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/Slime
+  Red/Slime Red Transparent.mat
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/SHARED
+  MAPS/Materials/Slime_normal.mat
+- Assets/InfinityPBR/Materials/Eye Reflect.mat
+Dependencies:
+- C:/Users/mark/unity/BiggerIsBetter/OVRAssetBundles/OVRMasterBundle/asset_tga0

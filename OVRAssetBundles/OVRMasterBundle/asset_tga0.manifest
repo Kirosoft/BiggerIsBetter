@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3677861628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f82bbe07c4d13a7dde822ed7c391aebf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/tex_SlimeTransparent/SlimeTransparent_metallicRoughness.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/tex_Slime/Slime_ambientOcclusion.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/Slime
+  Metal 3/Slime_ambientOcclusion.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/SHARED
+  MAPS/Slime_ambientOcclusion.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/tex_Slime/Slime_normal.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/SHARED
+  MAPS/Slime_normal.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/tex_Slime/Slime_metallicRoughness.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/Slime
+  Metal 3/Slime_metallicRoughness.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/tex_Blue/SlimeTransparent_albedoOpacity.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/tex_SlimeTransparent/SlimeTransparent_normal.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/Slime
+  Red/Slime_albedoOpacity.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/Slime
+  Metal 3/Slime_normal.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/SHARED
+  MAPS/Slime_metallicRoughness.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/Slime
+  Metal 3/Slime_albedoOpacity.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/tex_Slime/Slime_albedoOpacity.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/tex_SlimeTransparent/SlimeTransparent_ambientOcclusion.tga
+- Assets/InfinityPBR/_InfinityPBR - Slime/Textures & Materials/Slime (More!)/Slime
+  Green/Slime_albedoOpacity.tga
+Dependencies: []
