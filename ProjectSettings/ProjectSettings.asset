@@ -163,7 +163,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.DefaultCompany.BiggerIsBetter
+    Android: com.Kirosoft.BiggerIsBetter
     Standalone: com.DefaultCompany.BiggerIsBetter
   buildNumber: {}
   AndroidBundleVersionCode: 1
@@ -435,7 +435,7 @@ PlayerSettings:
     m_Enabled: 0
     m_Devices: []
   - m_BuildTarget: Android
-    m_Enabled: 0
+    m_Enabled: 1
     m_Devices: []
   - m_BuildTarget: Windows Store Apps
     m_Enabled: 0
