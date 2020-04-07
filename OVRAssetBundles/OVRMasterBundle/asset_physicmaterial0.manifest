@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1778921409
+CRC: 323251798
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f93238b5c9157735cdb0251ba89a9681
+    Hash: 5f3422400ff1e8985d85e13a9829448d
   TypeTreeHash:
     serializedVersion: 2
     Hash: f4d58da2e394c3ac790f4c422276af4f
@@ -12,5 +12,5 @@ ClassTypes:
 - Class: 134
   Script: {instanceID: 0}
 Assets:
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/PhysicsMaterials/RubberPhysMat.physicMaterial
+- Assets/Oculus/Platform/Samples/VrHoops/Bouncey.physicMaterial
 Dependencies: []

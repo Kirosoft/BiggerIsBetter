@@ -9,5 +9,7 @@ EditorBuildSettings:
     path: Assets/BiggerIsBetter/Blob1.unity
     guid: 8205ec2a95b71bb479e7570533e42c62
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5d829a26d7cd3bd478fb262c7ad35272,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: eecc43d2d3d06964c9b8a13ab2621f1c,
       type: 2}
